@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gustavo Gomes
+# Olá! Eu sou o Gustavo Gomes, Bacharel em Sistemas de Informação!
 
 - 🚀 Em transição de carreira para tecnologia
 - ☁ Participo de um treinamento da AWS reStart em parceria com a Escola da Nuvem
@@ -8,7 +8,7 @@
 
 </div>
 
- ![gustavogomes43's Stats](https://github-readme-stats.vercel.app/api?username=gustavogomes43&theme=merko&show_icons=true&hide_border=false&count_private=true)   ![gustavogomes43's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogomes43&theme=merko&show_icons=true&hide_border=true&layout=compact)
+ ![gustavogomes43's Stats](https://github-readme-stats.vercel.app/api?username=gustavogomes43&theme=merko&show_icons=true&hide_border=false&count_private=true)   ![gustavogomes43's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogomes43&theme=merko&show_icons=true&hide_border=false&layout=compact)
 </div>
  
 ##
