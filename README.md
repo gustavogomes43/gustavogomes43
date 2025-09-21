@@ -8,7 +8,7 @@
 
 </div>
 
-![gustavogomes43's Stats](https://github-readme-stats.vercel.app/api?username=gustavogomes43&theme=merko&show_icons=true&hide_border=false&count_private=true)   ![gustavogomes43's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogomes43&theme=merko&show_icons=true&hide_border=false&layout=compact)
+![gustavogomes43's Stats](https://github-readme-stats.vercel.app/api?username=gustavogomes43&theme=merko&show_icons=true&hide_border=false&count_private=true)  
 </div>
  
 ##
