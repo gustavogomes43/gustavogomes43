@@ -20,7 +20,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-ori
 
 </div>
 
-![Snake animation](https://github.com/gustavogomes43/gustavogomes2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gustavogomes43/gustavogomes43/blob/output/github-contribution-grid-snake.svg)
 
 
 
