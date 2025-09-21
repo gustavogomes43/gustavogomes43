@@ -20,13 +20,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-ori
 
 </div>
 
-
-# Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: gustavogomes43
-          svg_out_path: dist/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/gustavogomes43/gustavogomes2/blob/output/github-contribution-grid-snake.svg)
 
 
 
