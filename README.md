@@ -9,16 +9,11 @@
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gusdgomes?locale=pt_BR)
 
   
-</div>
-
-![gustavogomes43's Stats](https://github-readme-stats.vercel.app/api?username=gustavogomes43&theme=merko&show_icons=true&hide_border=false&count_private=true)  
-</div>
  
 ## Teconolgias que eu uso no meu dia
 
 </div>
  
-
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
