@@ -10,7 +10,7 @@
 
   
  
-## Teconolgias que eu uso no meu dia
+## Tecnologias que uso no meu dia a dia
 
 </div>
  
