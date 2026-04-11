@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api       type=waving&color=00B4D8&height=280&section=header&text=Cloud%20%26%20DevOps%20Expertise&fontSize=50&animation=fadeIn&fontAlignY=38" />
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,linux,devops,aws&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,grafana,prometheus,devops&theme=dark" />
-</div>
+<div style="margin-top: -20px;">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,prometheus,grafana,githubactions,py,js,bash&theme=dark" />
+  </div>
 
-  <h1> Automatizando o presente para escalar o amanhã! 👋</h1>
+  <br />
+
+  <h2> Automatizando o presente para escalar o amanhã! 👋 </h2>
 
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00B4D8&center=true&vCenter=true&width=900&height=50&lines=Transformando+desafios+complexos+de+Cloud+em+operações+resilientes;Focado+em+Arquitetura+AWS+com+foco+em+resultados;Evoluindo+operações+em+Cloud+com+foco+em+escalabilidade+sustentável;Visibilidade+de+custos,+alta+disponibilidade+e+ownership;Em+busca+da+AWS+Certified+Developer">
