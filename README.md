@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Gustavo%20Gomes&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Cloud%20|%20DevOps%20|%20AWS%20Developer&descAlignY=55&descFontSize=20" width="100%"/>
 
-  <h1> Olá, você vê complexidade, eu vejo oportunidade de escala! 👋</h1>
+  <h1> Automatizando o presente para escalar o amanhã! 👋</h1>
 
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00B4D8&center=true&vCenter=true&width=900&height=50&lines=Transformando+desafios+complexos+de+Cloud+em+operações+resilientes;Focado+em+Arquitetura+AWS+com+foco+em+resultados;Evoluindo+operações+em+Cloud+com+foco+em+escalabilidade+sustentável;Visibilidade+de+custos,+alta+disponibilidade+e+ownership;Em+busca+da+AWS+Certified+Developer">
