@@ -36,7 +36,6 @@ Mais do que apenas aprender ferramentas, estou moldando meu raciocínio para con
 
 ---
 
-
 ## 📊 Performance & Impacto
 
 <div align="center">
@@ -49,7 +48,6 @@ Mais do que apenas aprender ferramentas, estou moldando meu raciocínio para con
 </div>
 
 ---
-
 
 ## 📫 Conecte-se comigo
 
