@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=280&section=header&text=Cloud%20%26%20DevOps%20Expertise&fontSize=50&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api       type=waving&color=00B4D8&height=280&section=header&text=Cloud%20%26%20DevOps%20Expertise&fontSize=50&animation=fadeIn&fontAlignY=38" />
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,linux,devops,aws&theme=dark" />
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,grafana,prometheus,devops&theme=dark" />
 </div>
