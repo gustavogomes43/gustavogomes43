@@ -3,7 +3,8 @@
 
   <h1> Olá, entusiasta de tecnologia! 👋</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Transformando+código+em+infraestrutura;Focado+em+Arquitetura+AWS;Automação+Docker;Em+busca+da+AWS+Certified+Developer">
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Transformando+código+em+infraestrutura;Focado+em+Arquitetura+AWS;Automação+Docker;Em+busca+da+AWS+Certified+Developer">
 </div>
 
 ---
