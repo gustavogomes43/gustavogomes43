@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Gustavo%20Gomes&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Cloud%20|%20DevOps%20|%20AWS%20Developer&descAlignY=55&descFontSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=280&section=header&text=Cloud%20%26%20DevOps%20Expertise&fontSize=50&animation=fadeIn&fontAlignY=38" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus,linux,devops,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,grafana,prometheus,devops&theme=dark" />
+</div>
 
   <h1> Automatizando o presente para escalar o amanhã! 👋</h1>
 
