@@ -36,30 +36,20 @@ Mais do que apenas aprender ferramentas, estou moldando meu raciocínio para con
 
 ---
 
----
-
----
-
----
 
 ## 📊 Performance & Impacto
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavogomes43&show_icons=true&theme=dracula&count_private=true&cache_id=1" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogomes43&layout=compact&theme=dracula&cache_id=1" alt="Linguagens mais usadas" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavogomes43&theme=tokyonight" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavogomes43&theme=tokyonight" height="180px" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogomes43&theme=dracula&cache_id=1" alt="Streak de contribuições" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavogomes43&theme=tokyonight" height="180px" />
 </div>
 
 ---
 
----
-
----
-
----
 
 ## 📫 Conecte-se comigo
 
