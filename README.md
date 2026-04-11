@@ -39,8 +39,16 @@ Mais do que apenas aprender ferramentas, estou moldando meu raciocínio para con
 ## 📊 Performance & Impacto
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavogomes43&theme=tokyonight" height="180px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavogomes43&theme=tokyonight" height="180px" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavogomes43&theme=tokyonight" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavogomes43&theme=tokyonight" height="180px" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center" style="margin-top: 10px;">
