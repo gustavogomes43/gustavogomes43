@@ -4,7 +4,7 @@
 
   <br /><br />
 
-  <h2> Automatizando o presente para escalar o amanhã! 👋 </h2>
+  <h2> Automatizando o presente para escalar o amanhã! 🚀 </h2>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=40&lines=Transformando+desafios+complexos+de+Cloud+em+operações+resilientes;Focado+em+Arquitetura+AWS+com+foco+em+resultados;Evoluindo+operações+em+Cloud+com+foco+em+escalabilidade+sustentável;Em+busca+da+AWS+Certified+Developer" />
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Sobre Mim: A Jornada de um Resolvedor de Problemas
+## 👋 Sobre Mim: A Jornada de um Resolvedor de Problemas
 
 Atualmente, estou vivendo o capítulo mais empolgante da minha vida profissional: a **transição de carreira para a tecnologia**. Sabe aquela vontade de entender como o "motor" funciona por baixo do capô? É o que me move todos os dias na trilha de **AWS Developer** pela **Escola da Nuvem**.
 
