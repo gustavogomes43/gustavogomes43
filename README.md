@@ -1,15 +1,13 @@
 <div align="center">
+
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,prometheus,grafana,githubactions,py,js,bash&theme=dark" />
 
-  <br />
+  <br /><br />
 
   <h2> Automatizando o presente para escalar o amanhã! 👋 </h2>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Transformando+desafios+complexos+de+Cloud+em+operações+resilientes;Focado+em+Arquitetura+AWS+com+foco+em+resultados;Evoluindo+operações+em+Cloud+com+foco+em+escalabilidade+sustentável;Em+busca+da+AWS+Certified+Developer" />
-</div>
 
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00B4D8&center=true&vCenter=true&width=900&height=50&lines=Transformando+desafios+complexos+de+Cloud+em+operações+resilientes;Focado+em+Arquitetura+AWS+com+foco+em+resultados;Evoluindo+operações+em+Cloud+com+foco+em+escalabilidade+sustentável;Visibilidade+de+custos,+alta+disponibilidade+e+ownership;Em+busca+da+AWS+Certified+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=40&lines=Transformando+desafios+complexos+de+Cloud+em+operações+resilientes;Focado+em+Arquitetura+AWS+com+foco+em+resultados;Evoluindo+operações+em+Cloud+com+foco+em+escalabilidade+sustentável;Em+busca+da+AWS+Certified+Developer" />
+
 </div>
 
 ---
