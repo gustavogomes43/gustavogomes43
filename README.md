@@ -39,20 +39,21 @@ Mais do que apenas aprender ferramentas, estou moldando meu raciocínio para con
 ## 📊 Performance & Impacto
 
 <div align="center">
-  <table border="0">
+  <table border="0" style="border-collapse: collapse; margin: 0 auto;">
     <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavogomes43&theme=tokyonight" height="180px" />
+      <td align="center" style="padding: 0 5px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavogomes43&theme=tokyonight" height="190px" />
       </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavogomes43&theme=tokyonight" height="180px" />
+      <td align="center" style="padding: 0 5px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavogomes43&theme=tokyonight" height="190px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding-top: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavogomes43&theme=tokyonight" height="190px" />
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavogomes43&theme=tokyonight" height="180px" />
 </div>
 
 ---
