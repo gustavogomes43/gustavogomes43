@@ -14,9 +14,9 @@
 
 ## 👋 Sobre Mim: A Jornada de um Resolvedor de Problemas
 
-Atualmente, estou vivendo o capítulo mais empolgante da minha vida profissional: a **transição de carreira para a tecnologia**. Sabe aquela vontade de entender como o "motor" funciona por baixo do capô? É o que me move todos os dias na trilha de **AWS Developer** pela **Escola da Nuvem**.
+Atualmente, estou vivendo o capítulo mais empolgante da minha vida profissional: a **transição de carreira para a tecnologia**. Sabe aquela vontade de entender como o "motor" funciona por baixo do capô? É o que me move todos os dias na trilha de **AWS Solutions Architect** pela **Escola da Nuvem**.
 
-Mais do que apenas aprender ferramentas, estou moldando meu raciocínio para construir soluções que sejam resilientes, escaláveis e economicamente inteligentes (FinOps). Minha sede por conhecimento não para; estou focado na certificação **AWS Certified Developer - Associate (DVA-C02)** e cada projeto que você vê aqui é um passo sólido nessa direção.
+Mais do que apenas aprender ferramentas, estou moldando meu raciocínio para construir soluções que sejam resilientes, escaláveis e economicamente inteligentes (FinOps). Minha sede por conhecimento não para; estou focado na certificação **AWS Certified Solutions Architect - Associate (SAA-C03)** e cada projeto que você vê aqui é um passo sólido nessa direção.
 
 - 💡 **O que me fascina:** Ver uma infraestrutura complexa nascer de um simples arquivo de texto.
 - 🌱 **Evolução:** Comecei com SAP e Python, hoje estudo Docker, Kubernetes, Terraform e vem muito mais por aí.
